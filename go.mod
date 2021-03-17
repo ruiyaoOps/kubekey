@@ -18,7 +18,7 @@ require (
 	github.com/spf13/viper v1.4.0
 	github.com/tmc/scp v0.0.0-20170824174625-f7b48647feef
 	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.3.0
 	k8s.io/api v0.18.8
 	k8s.io/apimachinery v0.18.8
